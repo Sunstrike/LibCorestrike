@@ -1,0 +1,19 @@
+[
+{
+  "modid": "LibCorestrike",
+  "name": "LibCorestrike",
+  "description": "Coremod library for Forge",
+  "version": "@VERSION@",
+  "credits": "",
+  "logoFile": "",
+  "mcversion": "1.4.7",
+  "url": "",
+  "updateUrl": "",
+  "authors": [ "Sunstrike" ],
+  "parent":"",
+  "screenshots": [],
+  "dependencies": [
+     "mod_MinecraftForge"
+  ]
+}
+]
