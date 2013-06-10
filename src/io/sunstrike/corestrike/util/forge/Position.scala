@@ -27,4 +27,6 @@ class Position(w:World, xPos:Int, yPos:Int, zPos:Int, d:ForgeDirection) {
     val z = zPos
     val dir = d
 
+    override def toString = super.toString + " :: w:" + world.apply() + ", x:" + x + ", y:" + y + ", z:" + z + ", dir:" + dir
+
 }
